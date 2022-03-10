@@ -1,0 +1,1 @@
+Project root directory containing C source code files and code compilation scripts 

@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <unistd.h>
+
+/**
+ * main - program that prints _putchar  
+ *
+ * Return: 0 if program runs correctly
+ *
+ */
+int main(void)
+{
+write(1, "_putchar", 9);
+return (0);
+}
